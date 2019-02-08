@@ -1,0 +1,37 @@
+import re
+import codecs
+
+f = open(r'c:/tmp/iq200-pyth/iq200/result4600000000112.txt', encoding="ascii", errors="surrogateescape")
+s1=''
+s2=''
+x=''
+for line in f:
+    endt = 0
+    startt = 0
+    encoded3 = codecs.encode(line, 'utf-8')
+    startt = line.find(chr(2))
+    if chr(23) in line:
+        endt = line.find(chr(23))
+    if chr(3) in line:
+        endt = line.find(chr(3))
+    if chr(4) in line:
+        continue
+    encoded3s = encoded3[startt+2:endt]
+    print(encoded3s)
+    n=str(encoded3s)
+    n=n[2:-1]
+    i = 0
+    print(n)
+
+    s1=''
+    while i < len(n):
+        x=''
+        s=n[i:i+2]
+        if s != '00':
+            x=str(chr(int(s, 16)))
+            print(s,'---',chr(int(s, 16)))
+        s2=s2+x
+       #print(chr(int(s, 16)))
+        i=i+2
+
+print(s2)

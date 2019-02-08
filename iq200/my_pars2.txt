@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<?xml-stylesheet type="text/xsl" href="C:\IRIS2K1\Templates\SpecimenAnalysis-style.xsl"?>
+<SA BF="URN" ID="4600000000112" SID="AP" OP="Lab" ADT="2018-09-25 12:37:09+08:00" ADTS="2018-09-25 12:37:09" RDT="2019-01-04 13:42:00+08:00" RDTS="2019-01-04 13:42:00" RP="6" SQN="2088" RSQN="2" DILN="1" DILD="1" IMP="0" CDT="2018-09-25 12:39:32+08:00" CDTS="2018-09-25 12:39:32" REDT="2018-09-26 11:41:53+08:00" REDTS="2018-09-26 11:41:53">
+<PF># " #"!/  !/ '!/ ,& ! 8"</PF>
+<PF></PF><PF></PF><PF></PF><PF></PF><PF></PF><PF></PF>
+<AC AT="Chemistry" AS="Done" SO="V05408" DSLOT="Iris">
+<AR Key="GLU" SN="GLU" AF="0" NR="2,8 <<>;L/;">5 >1=0@C65=></AR>
+<AR Key="PRO" SN="PRO" AF="0" NR="0,1 3/;">5 >1=0@C65=></AR>
+<AR Key="BIL" SN="BIL" AF="0" NR="17 <:<>;L/;">5 >1=0@C65=></AR>
+<AR Key="URO" SN="URO" AF="0" NR="34 <:<>;L/;">>@<0</AR>
+<AR Key="PH" SN=" "  AF="0" NR="[none]">5,0</AR>
+<AR Key="BLD" SN="BLD" AF="1" NR="0,3 <3/;">0,3 <3/;</AR>
+<AR Key="KET" SN="KET" AF="0" NR="0,5 <<>;L/;">5 >1=0@C65=></AR>
+<AR Key="NIT" SN="NIT" AF="0" NR="0,1 <3/100 <;">5 >1=0@C65=></AR>
+<AR Key="LEU" SN="LEU" AF="0" NR="25 ;59:/<:;">5 >1=0@C65=></AR>
+<AR Key="CLA" SN="CLA" AF="0" NR="CB=0O">@>7@0G=0O</AR>
+<AR Key="SG" SN="SPGR" AF="0" NR="[none]">1,012</AR>
+<AR Key="COL" SN="COL" AF="0" NR="5;BK9">!25B;>-65;BK9</AR>
+<AR Key="ASA" SN="ASA" AF="0" NR="[none]">5 >1=0@C65=></AR>
+</AC>
+<AC AT="Sediment" AS="Done" SO="15117">
+<AR Key="ART"  SN="ART" AF="0"  NR="99999999 /<:;">[none]</AR>
+<AR Key="RBC"  SN="RBC" AF="0"  NR="2 /#">[none]</AR>
+<AR Key="DRBC" SN="- " AF="0" NR="[none]">[none]</AR>
+<AR Key="WBC"  SN="WBC" AF="0"  NR="5 /#">1 /#</AR>
+<AR Key="WBCC" SN="WBCC" AF="0" NR="[none]">[none]</AR>
+<AR Key="BACT" SN="BACT" AF="0" NR="[none]">>BACBAB2CNB</AR>
+<AR Key="BYST" SN="BYST" AF="0" NR="[none]">[none]</AR>
+<AR Key="HYST" SN="HYST" AF="0" NR="[none]">[none]</AR>
+<AR Key="SQEP" SN="SQEP" AF="0" NR="[none]">[none]</AR>
+<AR Key="TREP" SN="TREP" AF="0" NR="2 /#">[none]</AR>
+<AR Key="REEP" SN="REEP" AF="0" NR="2 /#">[none]</AR>
+<AR Key="OVFB" SN="OVFB" AF="0" NR="[none]">[none]</AR>
+<AR Key="FAT"  SN="FAT"  AF="0" NR="[none]">[none]</AR>
+<AR Key="MUCS" SN="MUCS" AF="0" NR="[none]">+</AR>
+<AR Key="RBCC" SN="RBCC" AF="0" NR="[none]">[none]</AR>
+<AR Key="SPRM" SN="SPRM" AF="0" NR="[none]">[none]</AR>
+<AR Key="TRCH" SN="TRCH" AF="0" NR="[none]">[none]</AR>
+<AR Key="NSE" SN="NSE" AF="0" NR="2 /#">[none]</AR>
+<AR Key="UNCC" SN="UNCC" AF="0" NR="1 /#">[none]</AR>
+<AR Key="HYAL" SN="HYAL" AF="0" NR="1 /#">[none]</AR>
+<AR Key="EPIC" SN="EPIC" AF="0" NR="1 /#">[none]</AR>
+<AR Key="WBCT" SN="WBCT" AF="0" NR="1 /#">[none]</AR>
+<AR Key="RBCT" SN="RBCT" AF="0" NR="1 /#">[none]</AR>
+<AR Key="GRAN" SN="GRAN" AF="0" NR="1 /#">[none]</AR>
+<AR Key="CELL" SN="CELL" AF="0" NR="1 /#">[none]</AR>
+<AR Key="BROAD" SN="BROAD" AF="0" NR="1 /#">[none]</AR>
+<AR Key="FATC" SN="FATC" AF="0" NR="1 /#">[none]</AR>
+<AR Key="WAXY" SN="WAXY" AF="0" NR="1 /#">[none]</AR>
+<AR Key="UNCX" SN="UNCX" AF="0" NR="[none]">[none]</AR>
+<AR Key="TPO4" SN="TRO4" AF="0" NR="[none]">[none]</AR>
+<AR Key="CAOX" SN="CAOX" AF="0" NR="[none]">[none]</AR>
+<AR Key="CAPH" SN="CAPH" AF="0" NR="[none]">[none]</AR>
+<AR Key="CACB" SN="CACB" AF="0" NR="[none]">[none]</AR>
+<AR Key="URIC" SN="URIC" AF="0" NR="[none]">[none]</AR>
+<AR Key="LEUC" SN="LEUC" AF="0" NR="[none]">[none]</AR>
+<AR Key="CYST" SN="CYST" AF="0" NR="[none]">[none]</AR>
+<AR Key="TYRO" SN="TYRO" AF="0" NR="[none]">[none]</AR>
+<AR Key="AMOR" SN="AMOR" AF="0" NR="[none]">[none]</AR>
+<AR Key="UNCL" SN="UNCL" AF="0" NR="99999999 /<:;">[none]</AR>
+</AC><ARV>42</ARV>
+<AUD>
+	<XE OP="Lab" dt="2019-01-04 13:41:47"/>
+	<XE OP="Lab" dt="2018-09-26 11:41:53"/>
+	<XE OP="[auto]" dt="2018-09-25 12:39:32"/>
+</AUD>
+<SysCfg MicroPresent="T" AXPresent="F" iChem200Present="T"/></SA>

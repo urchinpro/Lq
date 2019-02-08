@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<?xml-stylesheet type="text/xsl" href="C:\IRIS2K1\Templates\SpecimenAnalysis-style.xsl"?>
+<SA BF="URN" ID="4600000000112" SID="AP" OP="Lab" ADT="2018-09-25 12:37:09+08:00" ADTS="2018-09-25 12:37:09" RDT="2019-01-04 13:42:00+08:00" RDTS="2019-01-04 13:42:00" RP="6" SQN="2088" RSQN="2" DILN="1" DILD="1" IMP="0" CDT="2018-09-25 12:39:32+08:00" CDTS="2018-09-25 12:39:32" REDT="2018-09-26 11:41:53+08:00" REDTS="2018-09-26 11:41:53">
+<PF># " #"!/  !/ '!/ ,& ! 8"</PF>
+<PF></PF><PF></PF><PF></PF><PF></PF><PF></PF><PF></PF>
+<AC AT="Chemistry" AS="Done" SO="V05408" DSLOT="Iris">
+<AR Key="GLU" SN="GLU" LN=";N:>70" AF="0" NR="2,8 <<>;L/;">5 >1=0@C65=></AR>
+<AR Key="PRO" SN="PRO" LN="5;>:" AF="0" NR="0,1 3/;">5 >1=0@C65=></AR>
+<AR Key="BIL" SN="BIL" LN="8;8@C18=" AF="0" NR="17 <:<>;L/;">5 >1=0@C65=></AR>
+<AR Key="URO" SN="URO" LN="#@>18;8=>35=" AF="0" NR="34 <:<>;L/;">>@<0</AR>
+<AR Key="PH" SN=" " LN="@" AF="0" NR="[none]">5,0</AR><AR Key="BLD" SN="BLD" LN="@>2L" AF="1" NR="0,3 <3/;">0,3 <3/;</AR>
+<AR Key="KET" SN="KET" LN="5B>=K" AF="0" NR="0,5 <<>;L/;">5 >1=0@C65=></AR>
+<AR Key="NIT" SN="NIT" LN="8B@8BK" AF="0" NR="0,1 <3/100 <;">5 >1=0@C65=></AR>
+<AR Key="LEU" SN="LEU" LN="59:>F8BK" AF="0" NR="25 ;59:/<:;">5 >1=0@C65=></AR>
+<AR Key="CLA" SN="CLA" LN="@>7@0G=>ABL" AF="0" NR="CB=0O">@>7@0G=0O</AR>
+<AR Key="SG" SN="SPGR" LN="#45;L=K9 25A" AF="0" NR="[none]">1,012</AR>
+<AR Key="COL" SN="COL" LN="&25B" AF="0" NR="5;BK9">!25B;>-65;BK9</AR>
+<AR Key="ASA" SN="ASA" LN="A:>@18=>20O :8A;>B0" AF="0" NR="[none]">5 >1=0@C65=></AR>
+</AC>
+<AC AT="Sediment" AS="Done" SO="15117">
+<AR Key="ART" SN="ART" LN="@B5D0:BK" AF="0" NR="99999999 /<:;">[none]</AR>
+<AR Key="RBC" SN="RBC" LN="-@8B@>F8BK" AF="0" NR="2 /#">[none]</AR>
+<AR Key="DRBC" SN="- " LN="8A<>@D=KE M@8B@>F8B>2" AF="0" NR="[none]">[none]</AR>
+<AR Key="WBC" SN="WBC" LN="59:>F8BK" AF="0" NR="5 /#">1 /#</AR>
+<AR Key="WBCC" SN="WBCC" LN="!:>?;5=8O ;59:>F8B>2" AF="0" NR="[none]">[none]</AR>
+<AR Key="BACT" SN="BACT" LN="0:B5@88" AF="0" NR="[none]">>BACBAB2CNB</AR>
+<AR Key="BYST" SN="BYST" LN=">G:CNI85AO 4@>668" AF="0" NR="[none]">[none]</AR>
+<AR Key="HYST" SN="HYST" LN="8F5;80;L=K5 4@>668" AF="0" NR="[none]">[none]</AR>
+<AR Key="SQEP" SN="SQEP" LN=";5B:8 ?;>A:>3> M?8B5;8O" AF="0" NR="[none]">[none]</AR>
+<AR Key="TREP" SN="TREP" LN=";5B:8 ?5@5E>4=>3> M?8B5;8O" AF="0" NR="2 /#">[none]</AR>
+<AR Key="REEP" SN="REEP" LN=";5B:8 ?>G5G=>3> M?8B5;8O" AF="0" NR="2 /#">[none]</AR>
+<AR Key="OVFB" SN="OVFB" LN="20;L=K5 68@>2K5 B5;LF0" AF="0" NR="[none]">[none]</AR>
+<AR Key="FAT" SN="FAT" LN="8@" AF="0" NR="[none]">[none]</AR>
+<AR Key="MUCS" SN="MUCS" LN="!;87L" AF="0" NR="[none]">+</AR>
+<AR Key="RBCC" SN="RBCC" LN="!:>?;5=8O M@8B@>F8B>2" AF="0" NR="[none]">[none]</AR>
+<AR Key="SPRM" SN="SPRM" LN="!?5@<0B>7>84K" AF="0" NR="[none]">[none]</AR>
+<AR Key="TRCH" SN="TRCH" LN=""@8E><>=04K" AF="0" NR="[none]">[none]</AR>
+<AR Key="NSE" SN="NSE" LN=";5B:8 =5?;>A:>3> M?8B5;8O" AF="0" NR="2 /#">[none]</AR>
+<AR Key="UNCC" SN="UNCC" LN="5:20;8D8F8@>20==K5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR>
+<AR Key="HYAL" SN="HYAL" LN="80;8=>2K5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR>
+<AR Key="EPIC" SN="EPIC" LN="-?8B5;80;L=K5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR><AR Key="WBCT" SN="WBCT" LN="59:>F8B0@=K5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR><AR Key="RBCT" SN="RBCT" LN="-@8B@>F8B0@=K5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR><AR Key="GRAN" SN="GRAN" LN="5@=8ABK5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR><AR Key="CELL" SN="CELL" LN=";5B>G=K5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR><AR Key="BROAD" SN="BROAD" LN="(8@>:85 F8;8=4@K" AF="0" NR="1 /#">[none]</AR><AR Key="FATC" SN="FATC" LN="8@>2K5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR><AR Key="WAXY" SN="WAXY" LN=">A:>284=K5 F8;8=4@K" AF="0" NR="1 /#">[none]</AR><AR Key="UNCX" SN="UNCX" LN="5:;0AA8D8F8@>20==K5 :@8AB0;;K" AF="0" NR="[none]">[none]</AR><AR Key="TPO4" SN="TRO4" LN="@8AB0;;K B@8?5;LD>AD0B0" AF="0" NR="[none]">[none]</AR><AR Key="CAOX" SN="CAOX" LN="@8AB0;;K >:A0;0B0 :0;LF8O" AF="0" NR="[none]">[none]</AR><AR Key="CAPH" SN="CAPH" LN="@8AB0;;K D>AD0B0 :0;LF8O" AF="0" NR="[none]">[none]</AR><AR Key="CACB" SN="CACB" LN="@8AB0;;K :0@1>=0B0 :0;LF8O" AF="0" NR="[none]">[none]</AR><AR Key="URIC" SN="URIC" LN="@8AB0;;K <>G52>9 :8A;>BK" AF="0" NR="[none]">[none]</AR><AR Key="LEUC" SN="LEUC" LN="@8AB0;;K ;59F8=0" AF="0" NR="[none]">[none]</AR><AR Key="CYST" SN="CYST" LN="@8AB0;;K F8AB8=0" AF="0" NR="[none]">[none]</AR><AR Key="TYRO" SN="TYRO" LN="@8AB0;;K B8@>78=0" AF="0" NR="[none]">[none]</AR><AR Key="AMOR" SN="AMOR" LN="<>@D=K5 :@8AB0;;K" AF="0" NR="[none]">[none]</AR><AR Key="UNCL" SN="UNCL" LN="5:;0AA8D8F8@>20==K5 G0AB8FK" AF="0" NR="99999999 /<:;">[none]</AR>
+</AC><ARV>42</ARV>
+<AUD>
+	<XE OP="Lab" dt="2019-01-04 13:41:47"/>
+	<XE OP="Lab" dt="2018-09-26 11:41:53"/>
+	<XE OP="[auto]" dt="2018-09-25 12:39:32"/>
+</AUD>
+<SysCfg MicroPresent="T" AXPresent="F" iChem200Present="T"/></SA>

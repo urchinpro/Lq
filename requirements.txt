@@ -1,0 +1,4 @@
+Pillow==5.4.1
+pytils==0.3
+reportlab==3.5.13
+
